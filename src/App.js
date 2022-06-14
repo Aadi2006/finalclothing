@@ -1,8 +1,6 @@
-import "./App.css";
-
-function App() {
+const App = () => {
   return (
-    <div className="App">
+    <div>
       <h1>Hey This is the final clothing file</h1>
     </div>
   );
