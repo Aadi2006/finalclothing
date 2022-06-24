@@ -18,12 +18,9 @@
     align-items: center;
     justify-content: flex-end;
 
-    
-
+    .nav-link {
+      padding: 10px 15px;
+      cursor: pointer;
+    }
   }
-}
-
-.nav-link {
-  padding: 10px 15px;
-  cursor: pointer;
 }

@@ -1,2 +1,0 @@
-# finalclothing
-Final clothing website
